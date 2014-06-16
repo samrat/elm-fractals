@@ -16,10 +16,10 @@ Then browse to 0.0.0.0:8000/Julia.elm and /Mandelbrot.elm.
 ## Examples
 
 ### Julia fractal
-![Julia fractal](/julia.png)
+![Julia fractal](/examples/julia.png)
 
 ### Mandelbrot fractal
-![Mandelbrot Fractal](/mandelbrot.png)
+![Mandelbrot Fractal](/examples/mandelbrot.png)
 
 
 ## License

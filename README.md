@@ -16,9 +16,13 @@ Then browse to 0.0.0.0:8000/Julia.elm and /Mandelbrot.elm.
 ## Examples
 
 ### Julia fractal
+[Wikipedia article](http://en.wikipedia.org/wiki/Julia_set)
+
 ![Julia fractal](/examples/julia.png)
 
 ### Mandelbrot fractal
+[Wikipedia article](http://en.wikipedia.org/wiki/Mandelbrot_set)
+
 ![Mandelbrot Fractal](/examples/mandelbrot.png)
 
 

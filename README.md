@@ -28,7 +28,7 @@ Then browse to 0.0.0.0:8000/Julia.elm and /Mandelbrot.elm.
 
 ## License
 
-Copyright © 2014 [Samrat Man Singh](http://samrat.me)
+Copyright © 2014 [Samrat Man Singh](http://smingh.org)
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
